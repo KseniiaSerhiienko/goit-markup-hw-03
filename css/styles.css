@@ -310,6 +310,10 @@ img {
     background-color: white;
     border-radius: 0px 0px 4px 4px;
 }
+
+.team-item:last-child{
+    margin-right: 0;
+}
 .subtitle-command{
     font-family: Roboto;
     font-style: normal;
